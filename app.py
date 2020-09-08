@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  8 12:06:07 2020
-
-@author: digicare
-"""
 
 import pandas as pd
 import dash
